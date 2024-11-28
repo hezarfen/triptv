@@ -1,9 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/trt1.png" group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/trt1.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-
+#EXTINF:-1 tvg-id="KANALD.tr" tvg-name="KANAL D" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanald.png" group-title="Ulusal",KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
 
 

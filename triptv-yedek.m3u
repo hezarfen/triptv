@@ -18,6 +18,13 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-name="KANAL D" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanald.png" group-title="Ulusal",KANAL D (Yedek)
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/atv.png" group-title="Ulusal",ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/atv.png" group-title="Ulusal",ATV (Yedek)
+http://stream.tvcdn.net/ulusal/atv.m3u8
+
+
 
 
 

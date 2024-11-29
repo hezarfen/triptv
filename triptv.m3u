@@ -6,8 +6,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-name="KANAL D" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanald.png" group-title="Ulusal",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-
-
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/atv.png" group-title="Ulusal",ATV
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 
 
 

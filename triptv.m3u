@@ -14,3 +14,15 @@ https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=THH4EK
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOWTV.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/showtv.png" group-title="Ulusal",SHOW TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="BEYAZTV.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/beyaztv.png" group-title="Ulusal",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL7.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanal7.png" group-title="Ulusal",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv8.png" group-title="Ulusal",TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/now.png" group-title="Ulusal",NOW
+http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8

@@ -54,10 +54,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL7.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanal7.png" group-title="Ulusal",KANAL 7 (Yedek 1)
 http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 
-#EXTINF:-1 tvg-name="KANAL 7" tvg-id="KANAL7.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/kanal7.png" group-title="Ulusal",KANAL 7 (Yedek 2)
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-
 #EXTINF:-1 tvg-name="TV8" tvg-id="TV8.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv8.png" group-title="Ulusal",TV8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
@@ -72,7 +68,6 @@ http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/now.png" group-title="Ulusal",NOW (Yedek 1)
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/360.png" group-title="Eğlence",360https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
@@ -139,8 +134,8 @@ http://stream.tvcdn.net/eglence/dmax.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/dmax.png" group-title="Eğlence",DMAX (Yedek 2)
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
 
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv85.png" group-title="Eğlence",TV8,5
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv85.png" group-title="Eğlence",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 
-#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv85.png" group-title="Eğlence",TV8,5 (Yedek 1)
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8.5" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv85.png" group-title="Eğlence",TV8.5 (Yedek 1)
 http://stream.tvcdn.net/eglence/tv8-5.m3u8

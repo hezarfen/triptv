@@ -26,3 +26,32 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/now.png" group-title="Ulusal",NOW
 http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
+
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/360.png" group-title="Eğlence",360https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/trt2.png" group-title="Eğlence",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TEVE2.tr" tvg-name="teve2" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/teve2.png" group-title="Eğlence",teve2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+
+#EXTINF:-1 tvg-id="A2.tr" tvg-name="a2" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/a2.png" group-title="Eğlence",a2
+http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv4.png" group-title="Eğlence",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 tvg-id="SHOWMAX.tr" tvg-name="SHOW MAX" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/showmax.png" group-title="Eğlence",SHOW MAX
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+
+#EXTINF:-1 tvg-id="MELTEMTV.tr" tvg-name="Meltem TV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/meltemtv.png" group-title="Eğlence",Meltem TV
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tlc.png" group-title="Eğlence",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/dmax.png" group-title="Eğlence",DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tv85.png" group-title="Eğlence",TV8,5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3

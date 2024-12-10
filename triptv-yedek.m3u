@@ -25,18 +25,15 @@ http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
 http://stream.tvcdn.net/ulusal/atv.m3u8
 
 #EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR
-https://mn-nl.mncdn.com/dogusdyg_star/live_1080p3000000kbps/index.m3u8?st=THH4EKvhRlZSGt8MXYMeIg&e=1733171283
-
-#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 1)
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 2)
+#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 1)
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
-#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 3)
+#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 2)
 https://hw1.jemtv.com/app/StarTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 4)
+#EXTINF:-1 tvg-id="STAR.tr" tvg-name="STAR" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/star.png" group-title="Ulusal",STAR (Yedek 3)
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="SHOWTV.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/showtv.png" group-title="Ulusal",SHOW TV

@@ -69,7 +69,8 @@ http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8
 #EXTINF:-1 tvg-name="NOW" tvg-id="NOW.tr" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/now.png" group-title="Ulusal",NOW (Yedek 1)
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/360.png" group-title="Eğlence",360https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/360.png" group-title="Eğlence",360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/360.png" group-title="Eğlence",360 (Yedek 1)
 http://stream.tvcdn.net/ulusal/360-tv.m3u8

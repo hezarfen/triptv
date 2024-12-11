@@ -62,5 +62,5 @@ https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
 #EXTINF:-1 tvg-id="BLOOMBERGHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/bloomberght.png" group-title="Ekonomi",Bloomberg HT
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 
-#EXTINF:-1 tvg-id="APARA.tr" tvg-name="A Para" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/apara.png" group-title="Ekonomi",A Para
+#EXTINF:-1 tvg-id="APARA.tr" tvg-name="A PARA" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/apara.png" group-title="Ekonomi",A PARA
 http://185.234.111.229:8000/play/a01l

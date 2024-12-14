@@ -117,10 +117,10 @@ https://new.cache-stream.workers.dev/stream/UCoHnRpOS5rL62jTmSDO5Npw/live.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/krt.png" group-title="HABER",KRT
 https://new.cache-stream.workers.dev/stream/UCVKWwHoLwUMMa80cu_1uapA/live.m3u8
 
-#EXTINF:-1 tvg-id="FLASHHABER.tr" tvg-name="FLASH HABER" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/flashhaber.png" group-title="HABER",FLASH HABER
+#EXTINF:-1 tvg-id="FLASHHABER.tr" tvg-name="FLASH HABER" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/flashhaber.png" group-title="HABER",FLASH HABER (Servis Dışı)
 http://stream.tvcdn.net/haber/flash-haber.m3u8
 
-#EXTINF:-1 tvg-id="ULUSALKANAL.tr" tvg-name="ULUSAL KANAL" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/ulusalkanal.png" group-title="HABER",ULUSAL KANAL
+#EXTINF:-1 tvg-id="ULUSALKANAL.tr" tvg-name="ULUSAL KANAL" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/ulusalkanal.png" group-title="HABER",ULUSAL KANAL (Servis Dışı)
 http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 
 #EXTINF:-1 tvg-id="BENGUTURK.tr" tvg-name="BENGÜ TÜRK" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/benguturk.png" group-title="HABER",BENGÜ TÜRK

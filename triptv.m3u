@@ -100,7 +100,7 @@ https://akittv-live.ercdn.net/akittv/akittv.m3u8
 https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
 
 #EXTINF:-1 tvg-id="HABERGLOBAL.tr" tvg-name="HABER GLOBAL" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/haberglobal.png" group-title="HABER",HABER GLOBAL
-https://new.cache-stream.workers.dev/stream/UCtc-a9ZUIg0_5HpsPxEO7Qg/live.m3u8
+http://stream.tvcdn.net/haber/haber-global.m3u8
 
 #EXTINF:-1 tvg-id="EKOLTV.tr" tvg-name="EKOL TV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/ekoltv.png" group-title="HABER",EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
@@ -124,7 +124,7 @@ http://stream.tvcdn.net/haber/flash-haber.m3u8
 http://stream.tvcdn.net/haber/ulusal-kanal.m3u8
 
 #EXTINF:-1 tvg-id="BENGUTURK.tr" tvg-name="BENGÜ TÜRK" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/benguturk.png" group-title="HABER",BENGÜ TÜRK
-https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+http://stream.tvcdn.net/haber/benguturk-tv.m3u8
 
 #EXTINF:-1 tvg-id="TBMMTV.tr" tvg-name="TBMM TV" tvg-logo="https://raw.githubusercontent.com/hezarfen/triptv/main/logolar/tbmmtv.png" group-title="HABER",TBMM TV
 http://stream.tvcdn.net/haber/tbmm-tv.m3u8
